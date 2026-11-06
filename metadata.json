@@ -1,0 +1,8 @@
+{
+  "name": "Personal Emotional Wellness & 7-Day Support",
+  "description": "A warm, personal emotional wellness and counselling support website tailored for 1-on-1 guidance, WhatsApp chat, and 7-Day Friendly Support in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
